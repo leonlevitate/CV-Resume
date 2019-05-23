@@ -4,6 +4,8 @@ A Junior Developer with a unique blend of business and technical experience.
 
 ## Skills
 
+#### Problem-Solving
+
 #### Leadership
 
 #### Project Management
@@ -12,7 +14,6 @@ A Junior Developer with a unique blend of business and technical experience.
 
 #### Dilligence
 
-#### This Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -31,7 +32,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2019 to August 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -42,17 +43,32 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+## Experience
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+**Orbus Software** (May 2017 to Apr 2019)    
+*Consultancy Operations Manager*
+- TOGAF Certified : Enterprise Architecture framework defining business goals and aligning them with architecture objectives around software development.
+
+**Edison Investment Research** (Jun 2015 to Jan 2017)   
+*Global Client Services Manager*
+
+**Timetric Business Intelligence** (Oct 2012 to Jun 2015)
+*Client Services Manager* 
+
+**Trinity Mirror** (Feb 2011 to Oct 2012)
+*Business Development Executive*
+
+**Marketforce Business Media** (Dec 2007 - Dec 2010)
+*Business Development Executive*
+
+## Previous Education
+
+#### Leeds Beckett University (Sept 2004 to Sept 2007)
+
+- Media and Cultural Studies
+- 2:1
+- Student Newspaper Writer 
 
 #### Any other qualifications
 
-## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
