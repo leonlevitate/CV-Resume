@@ -1,6 +1,6 @@
 ## Leon Linton
 
-A Junior Developer with a unique blend of business and technical experience.
+A Junior Developer with a unique blend of technical and business experience. Former Consultancy Operations Manager for a Software company, with a passion for Technology.
 
 ## Skills
 
