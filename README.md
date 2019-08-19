@@ -1,56 +1,70 @@
-## Leon Linton
+# Leon Linton
 
-Junior Developer with a unique blend of technical and business experience. Former Consultancy Operations Manager for a Software company, with a passion for Technology.
+Junior Full-Stack Developer with a unique blend of technical and business experience. Former Consultancy Operations Manager for a Software company, with a passion for Technology.
 
 ## Skills
 
-| Skills              | Experience                                                                                                                                                                                                                                                                                    |
-| :------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Problem-Solving** | Test-driven development enables me to logically assess user requirements and improve my approach to writing clean code. [Here](https://github.com/leonlevitate/boris_bikes) I outline my general TDD process.                                                                                 |
-| **Adaptability**    | At Orbus Software, I worked cross-functionally with Consultants, Developers and Support Engineers. Through my natural curiosity and can-do attitude, I'm able to master new tasks and knowledge. [Here](#recommendation) is a recommendation from my previous line manager at Orbus Software. |
-| **Creativity**      |                                                                                                                                                                                                                                                                                               |
-| **Dilligence**      |                                                                                                                                                                                                                                                                                               |
+| _Skills_                   | _Experience_                                                                                                                                                                                                                                                                                                                                                                                    |
+| :------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Problem-solving**        | Learning and practicing Test-driven development has enabled me to logically assess user requirements and improve my approach to writing clean code. [Here](https://github.com/leonlevitate/boris_bikes) I outline my general TDD process for one of my earlier projects.                                                                                                                        |
+| **Adaptability**           | At Orbus Software, I worked cross-functionally with Consultants, Developers and Support Engineers. Through my natural curiosity and can-do attitude, I'm able to master new tasks and knowledge. [Below](#recommendation) is a recommendation from my previous line manager at Orbus Software.                                                                                                  |
+| **Team-focused**           | Being a strong and engaged team-player comes naturally to me. I've been complimented on my calm and focused demeanour when dealing with any roadblocks or conflicts within the team. [Here](https://github.com/petraartep/acebook-rails-team-squirrel/wiki/Day-1) is a team diary for our Acebook project which outlines what worked well, what didn't work, and what could have been improved. |
+| **Self-motivated learner** | My previous roles have required a high degree of autonomy and have earned me several promotions throughout my career. I've acheived this by setting personal and professional goals, maintaining good self-awareness, and continuously reflecting and evaluating my learning and progress. [Jump to testimonial.](#recommendation)                                                              |
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+## Recent Education
 
-- Experience
-- Achievements
-- Evidence
+#### MAKERS ACADEMY (April 2019 to August 2019)
 
-#### Another Skill
+#### Tech Skills
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- Languages: Ruby, JavaScript, SQL, JQuery
+- Frameworks: Rails, Node.js, Sinatra
+- Testing: RSpec, Jasmine, Capybara
+- ORM’s: PostgreSql
+- HTML, CSS, Bootstrap
+- Version Control - GitHub
+- Debugging
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Daily Approach
 
-## Education
-
-#### Makers Academy (April 2019 to August 2019)
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Object-Oriented Design
+- Agile methodologies
+- Test-Driven Development and Behaviour Driven Development
+- Pair Programming and Group Projects
+- XP Values
+- Scrums / Sprints / Standups / Retrospectives
 
 ## Experience
 
-**Orbus Software** (May 2017 to Apr 2019)  
-_Consultancy Operations Manager_
+**ORBUS SOFTWARE** (May 2017 to Apr 2019)  
+**Consultancy Operations Manager**
 
-- TOGAF Certified : Enterprise Architecture framework defining business goals and aligning them with architecture objectives around software development.
+- _**Operations Management**_ - Responsible for working cross functionally with Software Developers, and Business teams, implementing strategic improvements and creating processes for resource management, collaboration, and detailed reporting.
 
-**Edison Investment Research** (Jun 2015 to Jan 2017)  
-_Global Client Services Manager_
+- _**Deployment Project Manager**_ - Hybrid role on-boarding 100+ clients per year and interacting with clients regarding project plans, timelines, and task dependencies.
 
-**Timetric Business Intelligence** (Oct 2012 to Jun 2015)
-_Client Services Manager_
+- _**People Management**_ - Line Manager for EMEA team of 10 Consultants, responsible for engagement planning, utilisation metrics, aligned with client SLA’s and department KPI’s
+
+---
+
+**EDISON INVESTMENT RESEARCH** (Jun 2015 to Jan 2017)  
+**Client Services Manager**
+
+- Rolled out a new Client Service operation through strategic planning, process design and staff engagement.
+- Recruited and developed a team of 4 Client Service Executives, delivering client management activities for over 450 clients, across multiple sectors.
+- Ownership of the InvestorTrack® product – Campaign management & training clients how to analyse and interpret online readership reports.
+  Delivery of EdisonTV campaigns – Working with analysts and clients to produce digital executive interviews to communicate and market the client’s investment story.
+
+---
+
+**TIMETRIC** (Oct 2012 to Jun 2015)  
+**Client Services Manager**
+
+- Developed and led the Client Service operation for an international client base of over 550 companies.
+- Trained as a BI platform expert to deliver focused training to clients
+- Initiated and participated in the relaunch of our digital Intelligence Centre’s - working as the ‘client advocate’ to ensure functionality and content was aligned with evolving requirements.
+
+---
 
 **Trinity Mirror** (Feb 2011 to Oct 2012)
 _Business Development Executive_
@@ -58,24 +72,27 @@ _Business Development Executive_
 **Marketforce Business Media** (Dec 2007 - Dec 2010)
 _Business Development Executive_
 
+---
+
 ## Previous Education
 
 #### Leeds Beckett University (Sept 2004 to Sept 2007)
 
 - Media and Cultural Studies
-- 2:1
-- Student Newspaper Writer
+- Grade: 2:1
 
-#### Any other qualifications
+---
 
 ## <a name="recommendation"></a>
 
 ## Recommendation
 
-"Leon is someone who will bring positive energy to your organisation with a great attitude to accepting a challenge and delivering more than expected. When initially hiring Leon, I was looking for someone who could assist me and after a short time it was great to realise that Leon was someone who could instead replace me and improve the processes. Leon was integral to Orbus Software's success in managing the product deployment and the utilisation of the professional services consultants. If you are looking for someone to improve your team and organisation, I would recommend Leon. It was a pleasure working with Leon."
+_"Leon is someone who will bring positive energy to your organisation with a great attitude to accepting a challenge and delivering more than expected. When initially hiring Leon, I was looking for someone who could assist me and after a short time it was great to realise that Leon was someone who could instead replace me and improve the processes. Leon was integral to Orbus Software's success in managing the product deployment and the utilisation of the professional services consultants. If you are looking for someone to improve your team and organisation, I would recommend Leon. It was a pleasure working with Leon."_
 
 Russel Ahchow (Deployment Manager & Principal Consulant at Orbus Software)
 
+---
+
 ## Blog
 
-Here I have documented my journey to becoming a Software Developer.
+[Here](https://dev.to/leonlevitate/becoming-a-software-developer-at-makers-week-4-21pe) I have documented my journey to becoming a Software Developer.
