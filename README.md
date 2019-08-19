@@ -4,15 +4,12 @@ Junior Developer with a unique blend of technical and business experience. Forme
 
 ## Skills
 
-#### Problem-Solving
-
-#### Leadership
-
-#### Project Management
-
-#### Creativity
-
-#### Dilligence
+| Skills              | Experience                                                                                                                                                                                                                                                                                    |
+| :------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Problem-Solving** | Test-driven development enables me to logically assess user requirements and improve my approach to writing clean code. [Here](https://github.com/leonlevitate/boris_bikes) I outline my general TDD process.                                                                                 |
+| **Adaptability**    | At Orbus Software, I worked cross-functionally with Consultants, Developers and Support Engineers. Through my natural curiosity and can-do attitude, I'm able to master new tasks and knowledge. [Here](#recommendation) is a recommendation from my previous line manager at Orbus Software. |
+| **Creativity**      |                                                                                                                                                                                                                                                                                               |
+| **Dilligence**      |                                                                                                                                                                                                                                                                                               |
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -71,8 +68,14 @@ _Business Development Executive_
 
 #### Any other qualifications
 
-#### Recommendation
+## <a name="recommendation"></a>
+
+## Recommendation
 
 "Leon is someone who will bring positive energy to your organisation with a great attitude to accepting a challenge and delivering more than expected. When initially hiring Leon, I was looking for someone who could assist me and after a short time it was great to realise that Leon was someone who could instead replace me and improve the processes. Leon was integral to Orbus Software's success in managing the product deployment and the utilisation of the professional services consultants. If you are looking for someone to improve your team and organisation, I would recommend Leon. It was a pleasure working with Leon."
 
 Russel Ahchow (Deployment Manager & Principal Consulant at Orbus Software)
+
+## Blog
+
+Here I have documented my journey to becoming a Software Developer.
