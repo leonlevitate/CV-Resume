@@ -1,6 +1,6 @@
 ## Leon Linton
 
-A Junior Developer with a unique blend of technical and business experience. Former Consultancy Operations Manager for a Software company, with a passion for Technology.
+Junior Developer with a unique blend of technical and business experience. Former Consultancy Operations Manager for a Software company, with a passion for Technology.
 
 ## Skills
 
@@ -13,7 +13,6 @@ A Junior Developer with a unique blend of technical and business experience. For
 #### Creativity
 
 #### Dilligence
-
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -45,21 +44,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Orbus Software** (May 2017 to Apr 2019)    
-*Consultancy Operations Manager*
+**Orbus Software** (May 2017 to Apr 2019)  
+_Consultancy Operations Manager_
+
 - TOGAF Certified : Enterprise Architecture framework defining business goals and aligning them with architecture objectives around software development.
 
-**Edison Investment Research** (Jun 2015 to Jan 2017)   
-*Global Client Services Manager*
+**Edison Investment Research** (Jun 2015 to Jan 2017)  
+_Global Client Services Manager_
 
 **Timetric Business Intelligence** (Oct 2012 to Jun 2015)
-*Client Services Manager* 
+_Client Services Manager_
 
 **Trinity Mirror** (Feb 2011 to Oct 2012)
-*Business Development Executive*
+_Business Development Executive_
 
 **Marketforce Business Media** (Dec 2007 - Dec 2010)
-*Business Development Executive*
+_Business Development Executive_
 
 ## Previous Education
 
@@ -67,8 +67,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Media and Cultural Studies
 - 2:1
-- Student Newspaper Writer 
+- Student Newspaper Writer
 
 #### Any other qualifications
 
+#### Recommendation
 
+"Leon is someone who will bring positive energy to your organisation with a great attitude to accepting a challenge and delivering more than expected. When initially hiring Leon, I was looking for someone who could assist me and after a short time it was great to realise that Leon was someone who could instead replace me and improve the processes. Leon was integral to Orbus Software's success in managing the product deployment and the utilisation of the professional services consultants. If you are looking for someone to improve your team and organisation, I would recommend Leon. It was a pleasure working with Leon."
+
+Russel Ahchow (Deployment Manager & Principal Consulant at Orbus Software)
