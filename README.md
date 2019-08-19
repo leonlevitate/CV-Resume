@@ -1,6 +1,6 @@
 # Leon Linton <a href="https://www.linkedin.com/in/leonlinton/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="0" height="42" width="42"></a></p>
 
-Junior Full-Stack Developer with a unique blend of technical and business experience. Former Consultancy Operations Manager for a Software company, with a passion for Technology.
+Junior Full-Stack Developer with a unique blend of **Technical**, **Business** and **Client-facing** experience. Former _Consultancy Operations Manager_ for a Software company, with a passion for Technology.
 
 ## Skills
 
@@ -20,10 +20,10 @@ Junior Full-Stack Developer with a unique blend of technical and business experi
 | Languages: Ruby, JavaScript, SQL, JQuery | Object-Oriented Design                                   |
 | Frameworks: Rails, Node.js, Sinatra      | Agile methodologies                                      |
 | Testing: RSpec, Jasmine, Capybara        | Test-Driven Development and Behaviour-Driven Development |
-| ORM’s: PostgreSql                        | Pair Programming and Group Projects                      |
+| ORM’s: PostgreSql                        | Pair Programming                                         |
 | HTML, CSS, Bootstrap                     | XP Values                                                |
 | Version Control - GitHub                 | Scrums / Sprints / Standups / Retrospectives             |
-| Debugging                                |
+| Debugging                                | Group Projects                                           |
 
 ## Experience
 
@@ -58,10 +58,10 @@ Junior Full-Stack Developer with a unique blend of technical and business experi
 ---
 
 **TRINITY MIRROR** (Feb 2011 to Oct 2012)
-_Business Development Executive_
+**Business Development Executive**
 
 **MARKETFORCE BUSINESS MEDIA** (Dec 2007 - Dec 2010)
-_Business Development Executive_
+**Business Development Executive**
 
 ---
 
