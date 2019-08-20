@@ -13,12 +13,12 @@ Junior Full-Stack Developer with a unique blend of **Technical**, **Business** a
 
 ## Projects
 
-| Title         | Description                                   | Development Timeframe   | Tech stack                                                 | CI/CD/Testing            |
-| :------------ | :-------------------------------------------- | :---------------------- | :--------------------------------------------------------- | :----------------------- |
-| **Acebook**   | Clone of the infamous social media platform   | 10 days (group project) | Ruby on Rails, PostgreSQL, Rubocop, SimpleCov              | Heroku, Travis CI, RSpec |
-| **MakersBNB** | Replica of AirBNB website                     | 5 days (group project)  | Ruby, Sinatra, JavaScript, DataMapper                      | RSpec, Capybara          |
-| **Chitter**   | Simple build of Twitter posting functionality | 2 days                  | Ruby, Sinatra, PostgreSQL, Rubocop                         | Travis CI, RSpec         |
-| **Instafame** | Replica of Instagram app                      | 2 days                  | Ruby, Rails, JavaScript, JQuery, Active Storage, Bootstrap |                          |
+| _Title_                                                                  | _Description_                                 | _Development Timeframe_ | _Tech stack_                                               | _CI/CD/Testing_          |
+| :----------------------------------------------------------------------- | :-------------------------------------------- | :---------------------- | :--------------------------------------------------------- | :----------------------- |
+| [**Acebook**](https://github.com/petraartep/acebook-rails-team-squirrel) | Clone of the infamous social media platform   | 10 days (group project) | Ruby on Rails, PostgreSQL, Rubocop, SimpleCov              | Heroku, Travis CI, RSpec |
+| [**MakersBNB**](https://github.com/leonlevitate/MakersBnB)               | Replica of AirBNB website                     | 5 days (group project)  | Ruby, Sinatra, JavaScript, DataMapper                      | RSpec, Capybara          |
+| [**Chitter**](https://github.com/leonlevitate/chitter-challenge)         | Simple build of Twitter posting functionality | 2 days                  | Ruby, Sinatra, PostgreSQL, Rubocop                         | Travis CI, RSpec         |
+| [**Instafame**](https://github.com/leonlevitate/Instafame)               | Replica of Instagram app                      | 2 days                  | Ruby, Rails, JavaScript, JQuery, Active Storage, Bootstrap |                          |
 
 ## Recent Education
 
@@ -80,6 +80,14 @@ Junior Full-Stack Developer with a unique blend of **Technical**, **Business** a
 
 - Media and Cultural Studies
 - BA (Hons) 2:1
+
+**The Open Group** (Nov 2017)
+
+- TOGAF Certified (Enterprise Architecture Framework
+
+**Chartered Institute of Personnel and Development** (Jan - Nov 2016)
+
+- CIPD Foundation Certificate in HR
 
 ## <a name="recommendation"></a>
 
