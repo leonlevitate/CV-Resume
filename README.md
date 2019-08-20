@@ -1,29 +1,38 @@
 # Leon Linton <a href="https://www.linkedin.com/in/leonlinton/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="0" height="42" width="42"></a></p>
 
-Junior Full-Stack Developer with a unique blend of **Technical**, **Business** and **Client-facing** experience. Former _Consultancy Operations Manager_ for a Software company, with a passion for Technology.
+Junior Full-Stack Developer with a unique blend of **Technical**, **Business** and **Client-facing** experience. Former _Consultancy Operations Manager_ for a Global Software company, with a passion for Technology.
 
 ## Skills
 
-| _Skills_                   | _Experience_                                                                                                                                                                                                                                                                                                                                                                               |
-| :------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Problem-solving**        | Learning and practicing Test-driven development has enabled me to logically assess user requirements and improve my approach to writing clean code. [Here](https://github.com/leonlevitate/boris_bikes) I outline my general TDD process for one of my earlier projects.                                                                                                                   |
-| **Adaptability**           | At Orbus Software, I worked cross-functionally with Consultants, Developers and Support Engineers. Through my natural curiosity and can-do attitude, I'm able to master new tasks and knowledge. [Below](#recommendation) is a recommendation from my previous line manager at Orbus Software.                                                                                             |
-| **Team-focused**           | Being a strong and engaged team-player comes naturally to me. I'm often praised on my calm and focused demeanour when dealing with any roadblocks or conflicts within the team. [Here](https://github.com/petraartep/acebook-rails-team-squirrel/wiki/Day-1) is a team diary for our Acebook project which outlines what worked well, what didn't work, and what could have been improved. |
-| **Self-motivated learner** | My previous roles have required a high degree of autonomy, trust and tenacity. This has earned me several promotions to senior positions throughout my career. I've acheived this by setting personal and professional goals, maintaining good self-awareness, and continuously reflecting and evaluating my learning and progress. [Jump to testimonial.](#recommendation)                |
+| _Skills_                   | _Experience_                                                                                                                                                                                                                                                                                                                                                                                |
+| :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Problem-solving**        | Learning and practicing Test-driven development has enabled me to logically assess user requirements and improve my approach to writing clean code. [Here](https://github.com/leonlevitate/boris_bikes) I outline my general TDD process for one of my earlier projects.                                                                                                                    |
+| **Adaptability**           | At Orbus Software, I worked cross-functionally with Consultants, Developers and Support Engineers. Through my natural curiosity and can-do attitude, I'm able to master new tasks and knowledge. [Below](#recommendation) is a recommendation from my previous line manager at Orbus Software.                                                                                              |
+| **Team-focused**           | Being a strong and engaged team-player comes naturally to me. I'm often praised on my calm and rational demeanour when dealing with any roadblocks or conflicts within the team. [Here](https://github.com/petraartep/acebook-rails-team-squirrel/wiki/Day-1) is a team diary for our Acebook project which outlines what worked well, what didn't work, and what could have been improved. |
+| **Self-motivated learner** | My previous roles have required a high degree of autonomy, trust and tenacity. This has earned me several promotions to senior positions throughout my career. I've acheived this by setting personal and professional goals, maintaining good self-awareness, and continuous reflection and evaluation of my learning and progress. [Jump to testimonial below.](#recommendation)          |
+
+## Projects
+
+| Title         | Description                                   | Development Timeframe   | Tech stack                                                 | CI/CD/Testing            |
+| :------------ | :-------------------------------------------- | :---------------------- | :--------------------------------------------------------- | :----------------------- |
+| **Acebook**   | Clone of the infamous social media platform   | 10 days (group project) | Ruby on Rails, PostgreSQL, Rubocop, SimpleCov              | Heroku, Travis CI, RSpec |
+| **MakersBNB** | Replica of AirBNB website                     | 5 days (group project)  | Ruby, Sinatra, JavaScript, DataMapper                      | RSpec, Capybara          |
+| **Chitter**   | Simple build of Twitter posting functionality | 2 days                  | Ruby, Sinatra, PostgreSQL, Rubocop                         | Travis CI, RSpec         |
+| **Instafame** | Replica of Instagram app                      | 2 days                  | Ruby, Rails, JavaScript, JQuery, Active Storage, Bootstrap |                          |
 
 ## Recent Education
 
-#### MAKERS ACADEMY (April 2019 to August 2019)
+**MAKERS ACADEMY** (April 2019 to August 2019)
 
-| _Tech Skills_                            | _Learned Daily Approach_                                 |
-| :--------------------------------------- | :------------------------------------------------------- |
-| Languages: Ruby, JavaScript, SQL, JQuery | Object-Oriented Design                                   |
-| Frameworks: Rails, Node.js, Sinatra      | Agile methodologies                                      |
-| Testing: RSpec, Jasmine, Capybara        | Test-Driven Development and Behaviour-Driven Development |
-| ORM’s: PostgreSql                        | Pair Programming                                         |
-| HTML, CSS, Bootstrap                     | XP Values                                                |
-| Version Control - GitHub                 | Scrums / Sprints / Standups / Retrospectives             |
-| Debugging                                | Group Projects                                           |
+| _Tech Skills_                                              | _Learned Daily Approach_                                 |
+| :--------------------------------------------------------- | :------------------------------------------------------- |
+| Languages/ Libraries: Ruby, JavaScript, SQL, JQuery, React | Object-Oriented Design                                   |
+| Frameworks: Rails, Node.js, Sinatra                        | Agile methodologies                                      |
+| Testing: RSpec, Jasmine, Capybara                          | Test-Driven Development and Behaviour-Driven Development |
+| ORM’s: PostgreSql                                          | Pair Programming                                         |
+| HTML, CSS, Bootstrap                                       | XP Values                                                |
+| Version Control - GitHub                                   | Scrums / Sprints / Standups / Retrospectives             |
+| Debugging                                                  | Group Projects                                           |
 
 ## Experience
 
@@ -67,10 +76,10 @@ Junior Full-Stack Developer with a unique blend of **Technical**, **Business** a
 
 ## Previous Education
 
-#### Leeds Beckett University (Sept 2004 to Sept 2007)
+**Leeds Beckett University** (Sept 2004 to Sept 2007)
 
 - Media and Cultural Studies
-- Grade: 2:1
+- BA (Hons) 2:1
 
 ## <a name="recommendation"></a>
 
@@ -85,3 +94,7 @@ Russel Ahchow (Deployment Manager & Principal Consulant at Orbus Software)
 ## Blog
 
 [Here](https://dev.to/leonlevitate/becoming-a-software-developer-at-makers-week-4-21pe) is my blog which begins to document my journey to becoming a Software Developer.
+
+## Hobbies
+
+Commerical Dance shows | Fitness, Yoga & Meditation | Cooking for friends
