@@ -20,6 +20,8 @@ Junior Full-Stack Developer with a unique blend of **Technical**, **Business** a
 | [**Chitter**](https://github.com/leonlevitate/chitter-challenge)         | Simple build of Twitter posting functionality | 2 days                  | Ruby, Sinatra, PostgreSQL, Rubocop                         | Travis CI, RSpec         |
 | [**Instafame**](https://github.com/leonlevitate/Instafame)               | Replica of Instagram app                      | 2 days                  | Ruby, Rails, JavaScript, JQuery, Active Storage, Bootstrap |                          |
 
+Link to all [Github respositories](https://github.com/leonlevitate?tab=repositories)
+
 ## Recent Education
 
 **MAKERS ACADEMY** (April 2019 to August 2019)
