@@ -41,11 +41,11 @@ Link to all [Github respositories](https://github.com/leonlevitate?tab=repositor
 **ORBUS SOFTWARE** (May 2017 to Apr 2019)  
 **Consultancy Operations Manager**
 
-- _**Operations Management**_ - Implemented strategic improvements and created processes for resource management, collaboration, and detailed reporting. Worked cross functionally with Software Developers, and Business teams,
+- _**Operations Management**_ - Implemented strategic improvements and created processes for resource management, collaboration, and detailed reporting. Worked cross functionally with Software Developers, and Business teams.
 
-- _**Deployment Project Manager**_ - On-boarded 100+ clients per year and interacted with them regarding project plans, timelines, and task dependencies.
+- _**Deployment Project Manager**_ - On-boarded 100+ clients per year and interacted with them to actively manage project plans, timelines, and task dependencies.
 
-- _**People Management**_ - Line Managed a team of 10 Consultants, and took ownership of engagement planning and utilisation metrics, consistently hitting client SLA’s and department KPI’s
+- _**People Management**_ - Line Managed a team of 10 Consultants, and took ownership of engagement planning and utilisation metrics, consistently hitting client SLA’s and department KPI’s.
 
 ---
 
@@ -63,7 +63,7 @@ Link to all [Github respositories](https://github.com/leonlevitate?tab=repositor
 **Client Services Manager**
 
 - Developed and led the Client Service operation for an international client base of over 550 companies.
-- Trained as a BI platform expert to deliver focused training to clients
+- Trained as a BI platform expert to deliver focused training to clients.
 - Initiated and participated in the relaunch of our digital Intelligence Centre’s - working as the ‘client advocate’ to ensure functionality and content was aligned with evolving requirements.
 
 ---
@@ -103,7 +103,7 @@ Russel Ahchow (Deployment Manager & Principal Consulant at **Orbus Software**)
 
 ## Blog
 
-My journey towards becoming a Software Developer can be found [here](https://dev.to/leonlevitate/becoming-a-software-developer-at-makers-week-4-21pe) is my blog which begins to document my journey to becoming a Software Developer.
+My journey towards becoming a Software Developer can be found [here](https://dev.to/leonlevitate/becoming-a-software-developer-at-makers-week-4-21pe).
 
 ## Hobbies
 
