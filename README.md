@@ -1,6 +1,6 @@
 # Leon Linton <a href="https://www.linkedin.com/in/leonlinton/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="0" height="42" width="42"></a></p>
 
-Junior Full-Stack Developer with a unique blend of **Technical**, **Business** and **Client-facing** experience. Former _Consultancy Operations Manager_ for a Global Software company, with a passion for Technology.
+Junior Full-Stack Developer with a unique blend of **Technical**, **Business** and **Client-facing** experience. Former _Consultancy Operations Manager_ for a **Global Software company**, with a passion for technology and continous learning.
 
 ## Skills
 
@@ -16,9 +16,9 @@ Junior Full-Stack Developer with a unique blend of **Technical**, **Business** a
 | _Title_                                                                  | _Description_                                 | _Development Timeframe_ | _Tech stack_                                               | _CI/CD/Testing_          |
 | :----------------------------------------------------------------------- | :-------------------------------------------- | :---------------------- | :--------------------------------------------------------- | :----------------------- |
 | [**Acebook**](https://github.com/petraartep/acebook-rails-team-squirrel) | Clone of the popular social media platform    | 10 days (group project) | Ruby on Rails, PostgreSQL, Rubocop, SimpleCov              | Heroku, Travis CI, RSpec |
-| [**MakersBNB**](https://github.com/leonlevitate/MakersBnB)               | Replica of AirBNB website                     | 5 days (group project)  | Ruby, Sinatra, JavaScript, DataMapper                      | RSpec, Capybara          |
+| [**MakersBNB**](https://github.com/leonlevitate/MakersBnB)               | Inspired by the AirBNB website                | 5 days (group project)  | Ruby, Sinatra, JavaScript, DataMapper                      | RSpec, Capybara          |
 | [**Chitter**](https://github.com/leonlevitate/chitter-challenge)         | Simple build of Twitter posting functionality | 2 days                  | Ruby, Sinatra, PostgreSQL, Rubocop                         | Travis CI, RSpec         |
-| [**Instafame**](https://github.com/leonlevitate/Instafame)               | Replica of Instagram app                      | 2 days                  | Ruby, Rails, JavaScript, JQuery, Active Storage, Bootstrap |                          |
+| [**Instafame**](https://github.com/leonlevitate/Instafame)               | Replica of the celebrated photo-sharing app   | 2 days                  | Ruby, Rails, JavaScript, JQuery, Active Storage, Bootstrap |                          |
 
 Link to all [Github respositories](https://github.com/leonlevitate?tab=repositories)
 
