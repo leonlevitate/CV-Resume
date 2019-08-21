@@ -1,15 +1,15 @@
 # Leon Linton <a href="https://www.linkedin.com/in/leonlinton/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="0" height="42" width="42"></a></p>
 
-Junior Full-Stack Developer with a unique blend of **Technical**, **Business** and **Client-facing** experience. Former _Consultancy Operations Manager_ for a **Global Software company**, with a passion for technology and continous learning.
+Full-Stack Developer with a unique blend of **Technical**, **Business** and **Client-facing** experience. Former _Consultancy Operations Manager_ for a **Global Software company**, with a passion for technology and continous learning.
 
 ## Skills
 
-| _Skills_                   | _Experience_                                                                                                                                                                                                                                                                                                                                                                       |
-| :------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Problem-solving**        | Learning and applying Test-driven development has enabled me to logically assess user requirements and improve my approach to writing clean code. [Here](https://github.com/leonlevitate/boris_bikes) I outline my general TDD process for one of my earlier projects.                                                                                                             |
-| **Adaptability**           | At Orbus Software, I worked cross-functionally with Consultants, Developers and Support Engineers. Through my natural curiosity and can-do attitude, I'm able to master new tasks and knowledge. [Below](#recommendation) is a recommendation from my previous line manager at Orbus Software.                                                                                     |
-| **Team-focused**           | Being a strong and engaged team-player comes naturally to me. I'm often praised on my calm and rational demeanour when dealing with any roadblocks or conflicts within the team. [Here](https://github.com/petraartep/acebook-rails-team-squirrel/wiki/Day-1) is a team diary for our Acebook project which reflects on our journey working together as a cohesive team.           |
-| **Self-motivated learner** | My previous roles have required a high degree of autonomy, trust and tenacity which has earned me several promotions to senior positions throughout my career. I've acheived this by setting personal and professional goals, maintaining good self-awareness, and continuous reflection and evaluation of my learning and progress. [Jump to testimonial below.](#recommendation) |
+| _Skills_                   | _Experience_                                                                                                                                                                                                                                                                                                                                                                     |
+| :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Problem-solving**        | Learning and applying **Test-Driven Development** has enabled me to logically assess user requirements and improve my approach to writing clean code. I've outlined my general TDD process for one of my earlier projects [here](https://github.com/leonlevitate/boris_bikes).                                                                                                   |
+| **Adaptability**           | At Orbus Software, I worked cross-functionally with Consultants, Developers and Support Engineers. Through my natural curiosity and can-do attitude, I'm able to study and master new tasks and knowledge. [Below](#recommendation) is a recommendation from my previous line manager at Orbus Software.                                                                         |
+| **Team-focused**           | Being a dynamic and engaged team-player comes naturally to me. I'm often praised on my calm and rational demeanour when dealing with any roadblocks or conflicts within the team. [Here](https://github.com/petraartep/acebook-rails-team-squirrel/wiki/Day-1) is a team diary for our Acebook project which reflects on our journey working together as a cohesive team.        |
+| **Self-motivated learner** | My previous roles have required a high degree of autonomy, trust and tenacity, which has earned me several promotions to senior positions throughout my career. I've acheived this by setting personal and professional goals, developing strong self-awareness, and continuous reflection/evaluation of my learning and progress. [Jump to testimonial below.](#recommendation) |
 
 ## Projects
 
@@ -103,8 +103,8 @@ Russel Ahchow (Deployment Manager & Principal Consulant at **Orbus Software**)
 
 ## Blog
 
-[Here](https://dev.to/leonlevitate/becoming-a-software-developer-at-makers-week-4-21pe) is my blog which begins to document my journey to becoming a Software Developer.
+My journey towards becoming a Software Developer can be found [here](https://dev.to/leonlevitate/becoming-a-software-developer-at-makers-week-4-21pe) is my blog which begins to document my journey to becoming a Software Developer.
 
 ## Hobbies
 
-Commerical Dance shows | Fitness, Yoga & Meditation | Cooking for friends
+Commercial Dance shows | Fitness, Yoga & Meditation | Cooking for friends
