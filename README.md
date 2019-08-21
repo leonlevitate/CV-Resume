@@ -4,18 +4,18 @@ Junior Full-Stack Developer with a unique blend of **Technical**, **Business** a
 
 ## Skills
 
-| _Skills_                   | _Experience_                                                                                                                                                                                                                                                                                                                                                                                |
-| :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Problem-solving**        | Learning and practicing Test-driven development has enabled me to logically assess user requirements and improve my approach to writing clean code. [Here](https://github.com/leonlevitate/boris_bikes) I outline my general TDD process for one of my earlier projects.                                                                                                                    |
-| **Adaptability**           | At Orbus Software, I worked cross-functionally with Consultants, Developers and Support Engineers. Through my natural curiosity and can-do attitude, I'm able to master new tasks and knowledge. [Below](#recommendation) is a recommendation from my previous line manager at Orbus Software.                                                                                              |
-| **Team-focused**           | Being a strong and engaged team-player comes naturally to me. I'm often praised on my calm and rational demeanour when dealing with any roadblocks or conflicts within the team. [Here](https://github.com/petraartep/acebook-rails-team-squirrel/wiki/Day-1) is a team diary for our Acebook project which outlines what worked well, what didn't work, and what could have been improved. |
-| **Self-motivated learner** | My previous roles have required a high degree of autonomy, trust and tenacity. This has earned me several promotions to senior positions throughout my career. I've acheived this by setting personal and professional goals, maintaining good self-awareness, and continuous reflection and evaluation of my learning and progress. [Jump to testimonial below.](#recommendation)          |
+| _Skills_                   | _Experience_                                                                                                                                                                                                                                                                                                                                                                       |
+| :------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Problem-solving**        | Learning and applying Test-driven development has enabled me to logically assess user requirements and improve my approach to writing clean code. [Here](https://github.com/leonlevitate/boris_bikes) I outline my general TDD process for one of my earlier projects.                                                                                                             |
+| **Adaptability**           | At Orbus Software, I worked cross-functionally with Consultants, Developers and Support Engineers. Through my natural curiosity and can-do attitude, I'm able to master new tasks and knowledge. [Below](#recommendation) is a recommendation from my previous line manager at Orbus Software.                                                                                     |
+| **Team-focused**           | Being a strong and engaged team-player comes naturally to me. I'm often praised on my calm and rational demeanour when dealing with any roadblocks or conflicts within the team. [Here](https://github.com/petraartep/acebook-rails-team-squirrel/wiki/Day-1) is a team diary for our Acebook project which refelcts on our journey working together as a cohesive team.           |
+| **Self-motivated learner** | My previous roles have required a high degree of autonomy, trust and tenacity which has earned me several promotions to senior positions throughout my career. I've acheived this by setting personal and professional goals, maintaining good self-awareness, and continuous reflection and evaluation of my learning and progress. [Jump to testimonial below.](#recommendation) |
 
 ## Projects
 
 | _Title_                                                                  | _Description_                                 | _Development Timeframe_ | _Tech stack_                                               | _CI/CD/Testing_          |
 | :----------------------------------------------------------------------- | :-------------------------------------------- | :---------------------- | :--------------------------------------------------------- | :----------------------- |
-| [**Acebook**](https://github.com/petraartep/acebook-rails-team-squirrel) | Clone of the infamous social media platform   | 10 days (group project) | Ruby on Rails, PostgreSQL, Rubocop, SimpleCov              | Heroku, Travis CI, RSpec |
+| [**Acebook**](https://github.com/petraartep/acebook-rails-team-squirrel) | Clone of the popular social media platform    | 10 days (group project) | Ruby on Rails, PostgreSQL, Rubocop, SimpleCov              | Heroku, Travis CI, RSpec |
 | [**MakersBNB**](https://github.com/leonlevitate/MakersBnB)               | Replica of AirBNB website                     | 5 days (group project)  | Ruby, Sinatra, JavaScript, DataMapper                      | RSpec, Capybara          |
 | [**Chitter**](https://github.com/leonlevitate/chitter-challenge)         | Simple build of Twitter posting functionality | 2 days                  | Ruby, Sinatra, PostgreSQL, Rubocop                         | Travis CI, RSpec         |
 | [**Instafame**](https://github.com/leonlevitate/Instafame)               | Replica of Instagram app                      | 2 days                  | Ruby, Rails, JavaScript, JQuery, Active Storage, Bootstrap |                          |
@@ -24,7 +24,7 @@ Link to all [Github respositories](https://github.com/leonlevitate?tab=repositor
 
 ## Recent Education
 
-**MAKERS ACADEMY** (April 2019 to August 2019)
+**MAKERS ACADEMY** (Apr to Aug 2019)
 
 | _Tech Skills_                                              | _Learned Daily Approach_                                 |
 | :--------------------------------------------------------- | :------------------------------------------------------- |
@@ -41,11 +41,11 @@ Link to all [Github respositories](https://github.com/leonlevitate?tab=repositor
 **ORBUS SOFTWARE** (May 2017 to Apr 2019)  
 **Consultancy Operations Manager**
 
-- _**Operations Management**_ - Responsible for working cross functionally with Software Developers, and Business teams, implementing strategic improvements and creating processes for resource management, collaboration, and detailed reporting.
+- _**Operations Management**_ - Implemented strategic improvements and created processes for resource management, collaboration, and detailed reporting. Worked cross functionally with Software Developers, and Business teams,
 
-- _**Deployment Project Manager**_ - Hybrid role on-boarding 100+ clients per year and interacting with clients regarding project plans, timelines, and task dependencies.
+- _**Deployment Project Manager**_ - On-boarded 100+ clients per year and interacted with them regarding project plans, timelines, and task dependencies.
 
-- _**People Management**_ - Line Manager for EMEA team of 10 Consultants, responsible for engagement planning, utilisation metrics, aligned with client SLA’s and department KPI’s
+- _**People Management**_ - Line Managed a team of 10 Consultants, and took ownership of engagement planning and utilisation metrics, consistently hitting client SLA’s and department KPI’s
 
 ---
 
@@ -55,7 +55,7 @@ Link to all [Github respositories](https://github.com/leonlevitate?tab=repositor
 - Rolled out a new Client Service operation through strategic planning, process design and staff engagement.
 - Recruited and developed a team of 4 Client Service Executives, delivering client management activities for over 450 clients, across multiple sectors.
 - Ownership of the InvestorTrack® product – Campaign management & training clients how to analyse and interpret online readership reports.
-  Delivery of EdisonTV campaigns – Working with analysts and clients to produce digital executive interviews to communicate and market the client’s investment story.
+  Delivery of EdisonTV campaigns – Worked with analysts and clients to produce digital executive interviews to communicate and market the client’s investment story.
 
 ---
 
@@ -78,14 +78,14 @@ Link to all [Github respositories](https://github.com/leonlevitate?tab=repositor
 
 ## Previous Education
 
-**Leeds Beckett University** (Sept 2004 to Sept 2007)
+**Leeds Beckett University** (Sep 2004 to Sep 2007)
 
 - Media and Cultural Studies
 - BA (Hons) 2:1
 
 **The Open Group** (Nov 2017)
 
-- TOGAF Certified (Enterprise Architecture Framework
+- TOGAF Certified (Enterprise Architecture Framework)
 
 **Chartered Institute of Personnel and Development** (Jan - Nov 2016)
 
