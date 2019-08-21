@@ -8,7 +8,7 @@ Junior Full-Stack Developer with a unique blend of **Technical**, **Business** a
 | :------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Problem-solving**        | Learning and applying Test-driven development has enabled me to logically assess user requirements and improve my approach to writing clean code. [Here](https://github.com/leonlevitate/boris_bikes) I outline my general TDD process for one of my earlier projects.                                                                                                             |
 | **Adaptability**           | At Orbus Software, I worked cross-functionally with Consultants, Developers and Support Engineers. Through my natural curiosity and can-do attitude, I'm able to master new tasks and knowledge. [Below](#recommendation) is a recommendation from my previous line manager at Orbus Software.                                                                                     |
-| **Team-focused**           | Being a strong and engaged team-player comes naturally to me. I'm often praised on my calm and rational demeanour when dealing with any roadblocks or conflicts within the team. [Here](https://github.com/petraartep/acebook-rails-team-squirrel/wiki/Day-1) is a team diary for our Acebook project which refelcts on our journey working together as a cohesive team.           |
+| **Team-focused**           | Being a strong and engaged team-player comes naturally to me. I'm often praised on my calm and rational demeanour when dealing with any roadblocks or conflicts within the team. [Here](https://github.com/petraartep/acebook-rails-team-squirrel/wiki/Day-1) is a team diary for our Acebook project which reflects on our journey working together as a cohesive team.           |
 | **Self-motivated learner** | My previous roles have required a high degree of autonomy, trust and tenacity which has earned me several promotions to senior positions throughout my career. I've acheived this by setting personal and professional goals, maintaining good self-awareness, and continuous reflection and evaluation of my learning and progress. [Jump to testimonial below.](#recommendation) |
 
 ## Projects
@@ -26,7 +26,7 @@ Link to all [Github respositories](https://github.com/leonlevitate?tab=repositor
 
 **MAKERS ACADEMY** (Apr to Aug 2019)
 
-| _Tech Skills_                                              | _Learned Daily Approach_                                 |
+| _Learned Tech Skills_                                      | _Learned Daily Approach_                                 |
 | :--------------------------------------------------------- | :------------------------------------------------------- |
 | Languages/ Libraries: Ruby, JavaScript, SQL, JQuery, React | Object-Oriented Design                                   |
 | Frameworks: Rails, Node.js, Sinatra                        | Agile methodologies                                      |
@@ -78,11 +78,6 @@ Link to all [Github respositories](https://github.com/leonlevitate?tab=repositor
 
 ## Previous Education
 
-**Leeds Beckett University** (Sep 2004 to Sep 2007)
-
-- Media and Cultural Studies
-- BA (Hons) 2:1
-
 **The Open Group** (Nov 2017)
 
 - TOGAF Certified (Enterprise Architecture Framework)
@@ -91,13 +86,18 @@ Link to all [Github respositories](https://github.com/leonlevitate?tab=repositor
 
 - CIPD Foundation Certificate in HR
 
+**Leeds Beckett University** (Sep 2004 to Sep 2007)
+
+- Media and Cultural Studies
+- BA (Hons) 2:1
+
 ## <a name="recommendation"></a>
 
 ## Recommendation
 
 _"Leon is someone who will bring positive energy to your organisation with a great attitude to accepting a challenge and delivering more than expected. When initially hiring Leon, I was looking for someone who could assist me and after a short time it was great to realise that Leon was someone who could instead replace me and improve the processes. Leon was integral to Orbus Software's success in managing the product deployment and the utilisation of the professional services consultants. If you are looking for someone to improve your team and organisation, I would recommend Leon. It was a pleasure working with Leon."_
 
-Russel Ahchow (Deployment Manager & Principal Consulant at Orbus Software)
+Russel Ahchow (Deployment Manager & Principal Consulant at **Orbus Software**)
 
 ---
 
