@@ -52,9 +52,9 @@ Link to all [Github respositories](https://github.com/leonlevitate?tab=repositor
 **EDISON INVESTMENT RESEARCH** (Jun 2015 to Jan 2017)  
 **Client Services Manager**
 
-- Rolled out a new Client Service operation through strategic planning, process design and staff engagement.
+- Launched a new Client Service operation through strategic planning, process design and internal engagement.
 - Recruited and developed a team of 4 Client Service Executives, delivering client management activities for over 450 clients, across multiple sectors.
-- Ownership of the InvestorTrack® product – Campaign management & training clients how to analyse and interpret online readership reports.
+- Ownership of the digital InvestorTrack® product – Campaign management & training clients how to analyse and interpret online readership reports.
   Delivery of EdisonTV campaigns – Worked with analysts and clients to produce digital executive interviews to communicate and market the client’s investment story.
 
 ---
@@ -64,7 +64,7 @@ Link to all [Github respositories](https://github.com/leonlevitate?tab=repositor
 
 - Developed and led the Client Service operation for an international client base of over 550 companies.
 - Trained as a BI platform expert to deliver focused training to clients.
-- Initiated and participated in the relaunch of our digital Intelligence Centre’s - working as the ‘client advocate’ to ensure functionality and content was aligned with evolving requirements.
+- Worked alongside Software Development team to relaunch our online platforms - positioned as the ‘client advocate’ to ensure functionality and content was aligned with evolving requirements.
 
 ---
 
