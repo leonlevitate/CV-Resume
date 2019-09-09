@@ -1,6 +1,6 @@
 # Leon Linton <a href="https://www.linkedin.com/in/leonlinton/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="0" height="42" width="42"></a></p>
 
-Full-Stack Developer with a unique blend of **Technical**, **Business** and **Client-facing** experience. Former _Consultancy Operations Manager_ for a **Global Software company**, with a passion for technology and continous learning.
+Full-Stack Developer with a unique blend of **Technical**, **Business** and **Client-facing** experience. Former _Consultancy Operations Manager_ for a **Global Software company**, with a passion for technology and continuous learning.
 
 ## Skills
 
