@@ -108,4 +108,10 @@ My journey towards becoming a Software Developer can be found [here](https://dev
 
 ## Hobbies
 
-Advisory Board member for LGBT Social Enterprise :rainbow: | Dance & Theatre :performing_arts: | Fitness, Yoga & Meditation :runner: | Cooking for friends :bento:
+Advisory Board member for LGBT Social Enterprise :rainbow:
+
+Dance & Theatre :performing_arts:
+
+Fitness, Yoga & Meditation :runner: 
+
+Cooking for friends :bento:
