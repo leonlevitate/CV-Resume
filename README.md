@@ -4,12 +4,12 @@ Full-Stack Developer with a unique blend of **Technical**, **Business** and **Cl
 
 ## Skills
 
-| _Skills_                   | _Experience_                                                                                                                                                                                                                                                                                                                                                                     |
-| :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Problem-solving**        | Learning and applying **Test-Driven Development** has enabled me to logically assess user requirements and improve my approach to writing robust, maintainable code. I've outlined my high-level TDD process for one of my earlier projects [here](https://github.com/leonlevitate/boris_bikes).                                                                                  |
+| _Skills_                   | _Experience_                                                                                                                                                                                                                                                                                                                                                              |
+| :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Problem-solving**        | Learning and applying **Test-Driven Development** has enabled me to logically assess user requirements and improve my approach to writing robust, maintainable code. I've outlined my high-level TDD process for one of my earlier projects [here](https://github.com/leonlevitate/boris_bikes).                                                                          |
 | **Adaptability**           | In my previous role, I worked cross-functionally with Consultants, Developers and Support Engineers. Through my natural curiosity and can-do attitude, I'm able to study and master new tasks and knowledge. [Below](#recommendation) is a recommendation from my line manager at Orbus Software.                                                                         |
-| **Team-focused**           | Being a dynamic and engaged team-player comes naturally to me. I'm often praised on my calm and rational demeanour when dealing with any roadblocks or conflicts within the team. [Here](https://github.com/petraartep/acebook-rails-team-squirrel/wiki/Day-1) is a team diary for our Acebook project which reflects on our journey working together as a cohesive team.        |
-| **Self-motivated learner** | My previous roles have required a high degree of autonomy, trust and tenacity, which has earned me several promotions to senior positions. I've acheived this by setting personal and professional goals, developing strong self-awareness, and continuously reflecting and evaluating my learning and progress. [Jump to testimonial below.](#recommendation) |
+| **Team-focused**           | Being a dynamic and engaged team-player comes naturally to me. I'm often praised on my calm and rational demeanour when dealing with any roadblocks or conflicts within the team. [Here](https://github.com/petraartep/acebook-rails-team-squirrel/wiki/Day-1) is a team diary for our Acebook project which reflects on our journey working together as a cohesive team. |
+| **Self-motivated learner** | My previous roles have required a high degree of autonomy, trust and tenacity, which has earned me several promotions to senior positions. I've acheived this by setting personal and professional goals, developing strong self-awareness, and continuously reflecting and evaluating my learning and progress. [Jump to testimonial below.](#recommendation)            |
 
 ## Projects
 
@@ -47,16 +47,14 @@ Link to all [Github respositories](https://github.com/leonlevitate?tab=repositor
 
 - _**Operations Manager**_ - Implemented strategic improvements and created processes for resource management, collaboration, and detailed reporting. Worked cross functionally with Software Developers, and Business teams to acheive business objectives.
 
-
-
 ---
 
 **EDISON INVESTMENT RESEARCH** (Jun 2015 to Jan 2017)  
 **Client Services Manager**
 
-- Rolled out a Client Service operation by developing a team of 3 Client Service Executives and delivering client management activities for over 450 clients, across multiple sectors.
+- Rolled out a Client Service operation by recruiting and developing a team of 3 Client Service Executives, delivering client management activities for over 450 clients, across multiple sectors.
 - Ownership of the digital InvestorTrack® product – Campaign management & training clients how to analyse and interpret online readership reports.
-  Delivery of EdisonTV campaigns – Worked with analysts and clients to produce digital executive interviews to communicate and market the client’s investment story.
+- Delivery of EdisonTV campaigns – Worked with analysts and clients to produce digital executive interviews to communicate and market the client’s investment story.
 
 ---
 
@@ -112,6 +110,6 @@ Advisory Board member for LGBT Social Enterprise :rainbow:
 
 Dance & Theatre :performing_arts:
 
-Fitness, Yoga & Meditation :runner: 
+Fitness, Yoga & Meditation :runner:
 
 Cooking for friends :bento:
