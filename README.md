@@ -13,12 +13,13 @@ Full-Stack Developer with a unique blend of **Technical**, **Business** and **Cl
 
 ## Projects
 
-| _Title_                                                                  | _Description_                                 | _Development Timeframe_ | _Tech stack_                                               | _CI/CD/Testing_          |
-| :----------------------------------------------------------------------- | :-------------------------------------------- | :---------------------- | :--------------------------------------------------------- | :----------------------- |
-| [**Acebook**](https://github.com/petraartep/acebook-rails-team-squirrel) | Clone of the popular social media platform    | 10 days (group project) | Ruby on Rails, PostgreSQL, Rubocop, SimpleCov              | Heroku, Travis CI, RSpec |
-| [**MakersBNB**](https://github.com/leonlevitate/MakersBnB)               | Inspired by the AirBNB website                | 5 days (group project)  | Ruby, Sinatra, JavaScript, DataMapper                      | RSpec, Capybara          |
-| [**Chitter**](https://github.com/leonlevitate/chitter-challenge)         | Simple build of Twitter posting functionality | 2 days                  | Ruby, Sinatra, PostgreSQL, Rubocop                         | Travis CI, RSpec         |
-| [**Instafame**](https://github.com/leonlevitate/Instafame)               | Replica of the celebrated photo-sharing app   | 2 days                  | Ruby, Rails, JavaScript, JQuery, Active Storage, Bootstrap |                          |
+| _Title_                                                                                            | _Description_                                 | _Development Timeframe_ | _Tech stack_                                               | _CI/CD/Testing_          |
+| :------------------------------------------------------------------------------------------------- | :-------------------------------------------- | :---------------------- | :--------------------------------------------------------- | :----------------------- |
+| [**Personal Trainer Appointments**](https://github.com/leonlevitate/Personal-Trainer-Appointments) | React application using TDD                   | Ongoing                 | React, JavaScript, React Router, Redux, GraphQL, Node      | Jest                     |
+| [**Acebook**](https://github.com/petraartep/acebook-rails-team-squirrel)                           | Clone of the popular social media platform    | 10 days (group project) | Ruby on Rails, PostgreSQL, Rubocop, SimpleCov              | Heroku, Travis CI, RSpec |
+| [**MakersBNB**](https://github.com/leonlevitate/MakersBnB)                                         | Inspired by the AirBNB website                | 5 days (group project)  | Ruby, Sinatra, JavaScript, DataMapper                      | RSpec, Capybara          |
+| [**Chitter**](https://github.com/leonlevitate/chitter-challenge)                                   | Simple build of Twitter posting functionality | 2 days                  | Ruby, Sinatra, PostgreSQL, Rubocop                         | Travis CI, RSpec         |
+| [**Instafame**](https://github.com/leonlevitate/Instafame)                                         | Replica of the celebrated photo-sharing app   | 2 days                  | Ruby, Rails, JavaScript, JQuery, Active Storage, Bootstrap |                          |
 
 Link to all [Github respositories](https://github.com/leonlevitate?tab=repositories)
 
