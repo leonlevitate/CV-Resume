@@ -99,7 +99,9 @@ _"Leon is someone who will bring positive energy to your organisation with a gre
 
 Russel Ahchow (Deployment Manager & Principal Consulant at **Orbus Software**)
 
----
+_"Leon was a well liked and respected member of the team. Edison had undergone a period of considerable growth, and Leon was hired to manage a team of Client Service Representatives. Working with Senior Management Board, he identified opportunities for improvement to client service reporting and procedures. He implemented systems and processes necessary for Edison to differentiate clients specific requirements and to monitor the overall service delivery."_
+
+Tina Barnes (HR Business Partner at **Edison Investment Research**)
 
 ## Blog
 
