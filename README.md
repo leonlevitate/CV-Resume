@@ -93,7 +93,7 @@ Link to all [Github respositories](https://github.com/leonlevitate?tab=repositor
 
 ## <a name="recommendation"></a>
 
-## Recommendation
+## Recommendations
 
 _"Leon is someone who will bring positive energy to your organisation with a great attitude to accepting a challenge and delivering more than expected. When initially hiring Leon, I was looking for someone who could assist me and after a short time it was great to realise that Leon was someone who could instead replace me and improve the processes. Leon was integral to Orbus Software's success in managing the product deployment and the utilisation of the professional services consultants. If you are looking for someone to improve your team and organisation, I would recommend Leon. It was a pleasure working with Leon."_
 
